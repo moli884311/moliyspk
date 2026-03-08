@@ -24,14 +24,6 @@
       "ext": "http://8.130.134.173:20001/菜狗[官].js"
     },
     {
-      "key": "虾米",
-      "name": "虾米艺",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://8.130.134.173:20001/dzhipy-main/drpy_libs/drpy2.min.js",
-      "ext": "./虾米.js"
-    },
-    {
       "key": "360影视",
       "name": "360影视",
       "type": 3,
