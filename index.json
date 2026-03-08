@@ -53,14 +53,6 @@
       "api": "http://8.130.134.173:20001/dzhipy-main/drpy_libs/drpy2.min.js",
       "ext": "http://8.130.134.173:20001/腾讯弹幕.js"
     },          
-        {
-      "key": "搜狗",
-      "name": "搜狗",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://8.130.134.173:20001/dzhipy-main/drpy_libs/drpy2.min.js",
-      "ext": "http://8.130.134.173:20001/sg.js"
-    },
     {
       "key": "MGTV",
       "name": "MGTV",
