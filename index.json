@@ -13,17 +13,6 @@
       "filterable": 1
     },
     {
-      "key": "hipy_js_菜狗[官]",
-      "name": "菜狗",
-      "type": 3,
-      "api": "http://8.130.134.173:20001/dzhipy-main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://8.130.134.173:20001/菜狗[官].js"
-    },
-    {
       "key": "360影视",
       "name": "360影视",
       "type": 3,
@@ -153,6 +142,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/pianba.json"
+    },
+     {
+      "key": "hipy_js_菜狗[官]",
+      "name": "菜狗",
+      "type": 3,
+      "api": "http://8.130.134.173:20001/dzhipy-main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://8.130.134.173:20001/菜狗[官].js"
     },
     {
       "key": "急救",
